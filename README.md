@@ -19,29 +19,47 @@
 
 ## 🚀 Featured Projects
 
-### 💬 Real-Time Chat Application
+## 🚀 Featured Projects
 
-* Built using MERN + Socket.io
-* Real-time messaging & authentication
-* Online user tracking
+### 🏡 Wanderlust — Travel Accommodation Platform (MERN)
+
+* Developed a full-stack Airbnb-inspired web application
+* Implemented CRUD operations for listings and reviews
+* Integrated authentication using Passport.js
+* Used Cloudinary for image uploads and MongoDB Atlas for database
+
+🛠️ Tech Stack: Node.js, Express.js, MongoDB, EJS, Bootstrap, Passport.js
+
+🔗 Repo: https://github.com/sandeepkumaryadav05/Wanderlust
+
+---
+
+### 🍽️ DishGenie — Recipe Recommendation Web App
+
+* Built a React + Vite single-page application
+* Integrated MealDB API for dynamic recipe fetching
+* Implemented Firebase Authentication for secure login
+* Used React Router for smooth navigation
+
+🛠️ Tech Stack: React.js, Vite, Firebase, REST API, JavaScript
+
+🔗 Repo: https://github.com/sandeepkumaryadav05/DishGenie
+
+---
+
+### 💬 Real-Time Chat Application (MERN)
+
+* Built a real-time chat application using Socket.io
+* Implemented authentication and live messaging
+* Managed online users and real-time communication
+
+🛠️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Socket.io
 
 🔗 Repo: https://github.com/sandeepkumaryadav05/Real-time--chat
 
 ---
 
-### 🛒 E-Commerce Web App *(Add Soon)*
 
-* Product listing, cart & authentication
-* Full-stack MERN project
-
----
-
-### 📝 Blog Application *(Add Soon)*
-
-* Create, edit & delete posts
-* REST API + MongoDB
-
----
 
 ## 🛠️ Tech Stack
 
