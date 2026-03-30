@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Yadav</h1>
-<h3 align="center">🚀 MERN Stack Developer | Final Year B.Tech Student (2026)</h3>
+<h3 align="center">🚀 MERN Stack Developer | Final Year CSE | DSA Enthusiast | Open to Opportunities</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandeepkumaryadav05&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
