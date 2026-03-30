@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Sandeep Kumar Yadav
 
-<!--
-**sandeepkumaryadav05/sandeepkumaryadav05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Student (2026 Graduate)
+💻 MERN Stack Developer
+🚀 Passionate about building real-time web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+* Frontend: React.js, HTML, CSS, JavaScript
+* Backend: Node.js, Express.js
+* Database: MongoDB
+* Tools: Git, GitHub, Postman
+
+---
+
+## 🚀 Projects
+
+### 🔹 Real-Time Chat App (MERN)
+
+* Built using Socket.io for real-time communication
+* Features: Online users, messaging, authentication
+* GitHub: https://github.com/sandeepkumaryadav05/Real-time--chat
+
+---
+
+## 📊 GitHub Stats
+
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepkumaryadav05\&show_icons=true\&theme=radical)
+
+---
+
+## 📫 Connect with me
+
+* GitHub: https://github.com/sandeepkumaryadav05
+
+---
+
+⭐ *Always learning and improving!*
+
