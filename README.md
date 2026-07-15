@@ -29,7 +29,7 @@
 
 🛠️ Tech Stack: Node.js, Express.js, MongoDB, EJS, Bootstrap, Passport.js
 
-🔗 Repo: https://github.com/sandeepkumaryadav05/Wanderlust
+🔗 Repo: https://github.com/sandeepkumaryadav05/majorproject
 
 ---
 
