@@ -24,36 +24,16 @@
 
 ### 🌟 SkillX — AI-Powered Skill Exchange & Gig Collaboration Platform
 
-**SkillX** is a full-stack platform where developers can **exchange skills, collaborate on technical projects, post gigs, communicate in real time, and learn together**.
+* Built a full-stack platform for skill exchange, technical gigs, and developer collaboration
+* Integrated AI-powered gig descriptions and personalized learning roadmaps using Google Gemini
+* Implemented real-time chat, notifications, online status, and video sessions using Socket.io & WebRTC
+* Added Firebase authentication, skill matching, scheduling, reviews, Cloudinary uploads, and MongoDB Atlas
 
-It combines MERN stack development with **AI-powered features, real-time communication, Firebase authentication, notifications, Socket.io, WebRTC, and cloud deployment**.
-
-#### ✨ Key Features
-
-* Peer-to-peer skill exchange
-* Create and apply for technical gigs
-* AI-powered gig description generation
-* AI-generated learning roadmaps
-* Real-time chat using Socket.io
-* Real-time notifications
-* Online/offline user status
-* WebRTC-based video sessions
-* User profiles and skill matching
-* Reviews and ratings
-* User dashboard and analytics
-* Session scheduling
-* Firebase Authentication
-* Cloudinary image/file uploads
-* MongoDB Atlas database
-* Production deployment with Vercel + Render
-
-🛠️ **Tech Stack:** React.js, Vite, Node.js, Express.js, MongoDB, Mongoose, Socket.io, Firebase, Google Gemini AI, Cloudinary, WebRTC, REST APIs, Vercel, Render
+🛠️ **Tech Stack:** React.js, Vite, Node.js, Express.js, MongoDB, Socket.io, Firebase, Google Gemini AI, Cloudinary, WebRTC
 
 🌐 **Live Demo:** https://skillx-sooty.vercel.app
 
-💻 **Source Code:** https://github.com/sandeepkumaryadav05/SKillX
-
-> 🚀 **Try SkillX:** Explore gigs, exchange skills, chat with other users, generate AI-powered content, and collaborate on real-world projects.
+💻 **Repository:** https://github.com/sandeepkumaryadav05/SKillX
 
 ---
 
@@ -62,8 +42,7 @@ It combines MERN stack development with **AI-powered features, real-time communi
 * Developed a full-stack Airbnb-inspired web application
 * Implemented CRUD operations for listings and reviews
 * Integrated authentication using Passport.js
-* Used Cloudinary for image uploads
-* Used MongoDB Atlas for database management
+* Used Cloudinary for image uploads and MongoDB Atlas for database management
 
 🛠️ **Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap, Passport.js
 
@@ -76,25 +55,11 @@ It combines MERN stack development with **AI-powered features, real-time communi
 * Built a React + Vite single-page application
 * Integrated MealDB API for dynamic recipe fetching
 * Implemented Firebase Authentication for secure login
-* Used React Router for smooth navigation
-* Added recipe discovery and detailed recipe information
+* Used React Router for smooth navigation and recipe discovery
 
 🛠️ **Tech Stack:** React.js, Vite, Firebase, REST API, JavaScript
 
 🔗 **Repository:** https://github.com/sandeepkumaryadav05/DishGenie
-
----
-
-### 💬 Real-Time Chat Application
-
-* Built a real-time chat application using Socket.io
-* Implemented authentication and live messaging
-* Managed online/offline users
-* Implemented real-time communication between users
-
-🛠️ **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.io
-
-🔗 **Repository:** https://github.com/sandeepkumaryadav05/Real-time--chat
 
 ---
 
