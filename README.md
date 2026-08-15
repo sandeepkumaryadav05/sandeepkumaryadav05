@@ -3,20 +3,26 @@
 <h3 align="center">🚀 MERN Stack Developer | 2026 CSE Graduate | DSA Enthusiast | Open to Opportunities</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandeepkumaryadav05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sandeepkumaryadav05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/sandeepkumaryadav05">
+    <img src="https://img.shields.io/badge/LinkedIn-Sandeep%20Kumar%20Yadav-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sandeepk.03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sandeepk.03%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech Computer Science & Engineering — 2026 Graduate
-* 💻 Passionate MERN Stack Developer
-* 🤖 Interested in AI-powered applications
-* ⚡ Building real-time applications using Socket.io
-* 📚 Continuously improving DSA & backend development skills
-* ☁️ Experience with cloud deployment using Vercel and Render
-* 🎯 Looking for Software Developer / Full Stack Developer opportunities
+- 🎓 B.Tech Computer Science & Engineering — 2026 Graduate
+- 💻 Passionate MERN Stack Developer
+- 🤖 Interested in AI-powered applications
+- ⚡ Building real-time applications using Socket.io
+- 📚 Continuously improving DSA & backend development skills
+- ☁️ Experience with cloud deployment using Vercel and Render
+- 🎯 Looking for Software Developer / Full Stack Developer opportunities
 
 ---
 
@@ -24,10 +30,10 @@
 
 ### 🌟 SkillX — AI-Powered Skill Exchange & Gig Collaboration Platform
 
-* Built a full-stack platform for skill exchange, technical gigs, and developer collaboration
-* Integrated AI-powered gig descriptions and personalized learning roadmaps using Google Gemini
-* Implemented real-time chat, notifications, online status, and video sessions using Socket.io & WebRTC
-* Added Firebase authentication, skill matching, scheduling, reviews, Cloudinary uploads, and MongoDB Atlas
+- Built a full-stack platform for skill exchange, technical gigs, and developer collaboration
+- Integrated AI-powered gig descriptions and personalized learning roadmaps using Google Gemini
+- Implemented real-time chat, notifications, online status, and video sessions using Socket.io & WebRTC
+- Added Firebase authentication, skill matching, scheduling, reviews, Cloudinary uploads, and MongoDB Atlas
 
 🛠️ **Tech Stack:** React.js, Vite, Node.js, Express.js, MongoDB, Socket.io, Firebase, Google Gemini AI, Cloudinary, WebRTC
 
@@ -39,10 +45,10 @@
 
 ### 🏡 Wanderlust — Travel Accommodation Platform
 
-* Developed a full-stack Airbnb-inspired web application
-* Implemented CRUD operations for listings and reviews
-* Integrated authentication using Passport.js
-* Used Cloudinary for image uploads and MongoDB Atlas for database management
+- Developed a full-stack Airbnb-inspired web application
+- Implemented CRUD operations for listings and reviews
+- Integrated authentication using Passport.js
+- Used Cloudinary for image uploads and MongoDB Atlas for database management
 
 🛠️ **Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap, Passport.js
 
@@ -52,14 +58,27 @@
 
 ### 🍽️ DishGenie — Recipe Recommendation Web App
 
-* Built a React + Vite single-page application
-* Integrated MealDB API for dynamic recipe fetching
-* Implemented Firebase Authentication for secure login
-* Used React Router for smooth navigation and recipe discovery
+- Built a React + Vite single-page application
+- Integrated MealDB API for dynamic recipe fetching
+- Implemented Firebase Authentication for secure login
+- Used React Router for smooth navigation and recipe discovery
 
 🛠️ **Tech Stack:** React.js, Vite, Firebase, REST API, JavaScript
 
 🔗 **Repository:** https://github.com/sandeepkumaryadav05/DishGenie
+
+---
+
+### 💬 Real-Time Chat Application
+
+- Built a real-time chat application using Socket.io
+- Implemented authentication and live messaging
+- Managed online/offline users and real-time communication
+- Integrated MongoDB for persistent chat data
+
+🛠️ **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.io
+
+🔗 **Repository:** https://github.com/sandeepkumaryadav05/Real-time--chat
 
 ---
 
@@ -138,14 +157,14 @@
 
 ### 🧠 Concepts
 
-* Data Structures & Algorithms (Java)
-* Object-Oriented Programming (OOP)
-* REST API Design
-* Authentication & Authorization
-* Real-Time Communication
-* WebSockets & Socket.io
-* Cloud Deployment
-* API Integration
+- Data Structures & Algorithms (Java)
+- Object-Oriented Programming (OOP)
+- REST API Design
+- Authentication & Authorization
+- Real-Time Communication
+- WebSockets & Socket.io
+- Cloud Deployment
+- API Integration
 
 ---
 
@@ -160,7 +179,17 @@
 
 ## 📫 Let's Connect
 
-* 💻 GitHub: https://github.com/sandeepkumaryadav05
+<p align="center">
+  <a href="https://github.com/sandeepkumaryadav05">
+    <img src="https://img.shields.io/badge/GitHub-sandeepkumaryadav05-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/sandeepkumaryadav05">
+    <img src="https://img.shields.io/badge/LinkedIn-Sandeep%20Kumar%20Yadav-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sandeepk.03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sandeepk.03%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
