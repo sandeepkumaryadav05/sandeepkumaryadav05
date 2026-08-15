@@ -51,7 +51,7 @@
 - Used Cloudinary for image uploads and MongoDB Atlas for database management
 
 🛠️ **Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap, Passport.js
-
+🌐 **Live Demo:** https://majorproject-7z8l.onrender.com/listings
 🔗 **Repository:** https://github.com/sandeepkumaryadav05/majorproject
 
 ---
@@ -64,7 +64,7 @@
 - Used React Router for smooth navigation and recipe discovery
 
 🛠️ **Tech Stack:** React.js, Vite, Firebase, REST API, JavaScript
-
+🌐 **Live Demo:** https://dishgenie-livid.vercel.app
 🔗 **Repository:** https://github.com/sandeepkumaryadav05/DishGenie
 
 ---
