@@ -16,13 +16,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science & Engineering — 2026 Graduate
-- 💻 Passionate MERN Stack Developer
-- 🤖 Interested in AI-powered applications
-- ⚡ Building real-time applications using Socket.io
-- 📚 Continuously improving DSA & backend development skills
-- ☁️ Experience with cloud deployment using Vercel and Render
-- 🎯 Looking for Software Developer / Full Stack Developer opportunities
+* 🎓 B.Tech Computer Science & Engineering — 2026 Graduate
+* 💻 Passionate MERN Stack Developer
+* 🤖 Interested in AI-powered applications
+* ⚡ Building real-time applications using Socket.io
+* 📚 Continuously improving DSA & backend development skills
+* ☁️ Experience with cloud deployment and full-stack application development
+* 🎯 Looking for Software Developer / Full Stack Developer opportunities
 
 ---
 
@@ -30,10 +30,10 @@
 
 ### 🌟 SkillX — AI-Powered Skill Exchange & Gig Collaboration Platform
 
-- Built a full-stack platform for skill exchange, technical gigs, and developer collaboration
-- Integrated AI-powered gig descriptions and personalized learning roadmaps using Google Gemini
-- Implemented real-time chat, notifications, online status, and video sessions using Socket.io & WebRTC
-- Added Firebase authentication, skill matching, scheduling, reviews, Cloudinary uploads, and MongoDB Atlas
+* Built a full-stack platform for skill exchange, technical gigs, and developer collaboration
+* Integrated AI-powered gig descriptions and personalized learning roadmaps using Google Gemini
+* Implemented real-time chat, notifications, online status, and video sessions using Socket.io & WebRTC
+* Added Firebase authentication, skill matching, scheduling, reviews, Cloudinary uploads, and MongoDB Atlas
 
 🛠️ **Tech Stack:** React.js, Vite, Node.js, Express.js, MongoDB, Socket.io, Firebase, Google Gemini AI, Cloudinary, WebRTC
 
@@ -45,10 +45,10 @@
 
 ### 🏡 Wanderlust — Travel Accommodation Platform
 
-- Developed a full-stack Airbnb-inspired web application
-- Implemented CRUD operations for listings and reviews
-- Integrated authentication using Passport.js
-- Used Cloudinary for image uploads and MongoDB Atlas for database management
+* Developed a full-stack Airbnb-inspired web application
+* Implemented CRUD operations for listings and reviews
+* Integrated authentication using Passport.js
+* Used Cloudinary for image uploads and MongoDB Atlas for database management
 
 🛠️ **Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap, Passport.js
 
@@ -58,27 +58,34 @@
 
 ---
 
-### 🍽️ DishGenie — Recipe Recommendation Web App
+### 🍳 DishGenie — AI-Powered Recipe Discovery & Meal Planning Platform
 
-- Built a React + Vite single-page application
-- Integrated MealDB API for dynamic recipe fetching
-- Implemented Firebase Authentication for secure login
-- Used React Router for smooth navigation and recipe discovery
+* Built a full-stack recipe discovery platform using **React, Vite, Node.js, Express, and MongoDB**
+* Implemented **ingredient-based recipe search** with nutritional and dietary filters
+* Developed an **AI Recipe Assistant powered by Google Gemini** for personalized recipe recommendations and cooking suggestions
+* Added **nutrition tracking** with filters for high-protein, low-calorie, low-carb, high-fiber, and healthy recipes
+* Implemented a **weekly Meal Planner** for organizing recipes by day and meal type
+* Added **Favorites** functionality for saving and managing recipes
+* Implemented **user preferences** including diet type, cuisine preferences, cooking time, difficulty level, and nutritional goals
+* Built a **role-based Admin Dashboard** with recipe CRUD operations, search, filtering, and recipe statistics
+* Integrated **Firebase Authentication** with backend ID-token verification and protected API routes
+* Implemented backend-side authorization so admin privileges are verified through the user's MongoDB role
+* Designed a responsive interface with **dark/light theme support** for desktop, tablet, and mobile devices
 
-🛠️ **Tech Stack:** React.js, Vite, Firebase, REST API, JavaScript
+🛠️ **Tech Stack:** React 18, Vite, React Router, Node.js, Express 5, MongoDB, Mongoose, Firebase Authentication, Google Gemini AI, REST API
 
-🌐 **Live Demo:** https://dishgenie-livid.vercel.app
+🌐 **Live Demo:** https://dish-genie-seven.vercel.app
 
-🔗 **Repository:** https://github.com/sandeepkumaryadav05/DishGenie
+🔗 **Repository:** https://github.com/sandeepkumaryadav05/Dish_Genie
 
 ---
 
 ### 💬 Real-Time Chat Application
 
-- Built a real-time chat application using Socket.io
-- Implemented authentication and live messaging
-- Managed online/offline users and real-time communication
-- Integrated MongoDB for persistent chat data
+* Built a real-time chat application using Socket.io
+* Implemented authentication and live messaging
+* Managed online/offline users and real-time communication
+* Integrated MongoDB for persistent chat data
 
 🛠️ **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.io
 
@@ -101,6 +108,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
@@ -133,6 +142,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
@@ -161,14 +171,18 @@
 
 ### 🧠 Concepts
 
-- Data Structures & Algorithms (Java)
-- Object-Oriented Programming (OOP)
-- REST API Design
-- Authentication & Authorization
-- Real-Time Communication
-- WebSockets & Socket.io
-- Cloud Deployment
-- API Integration
+* Data Structures & Algorithms (Java)
+* Object-Oriented Programming (OOP)
+* REST API Design
+* Authentication & Authorization
+* Role-Based Access Control
+* Real-Time Communication
+* WebSockets & Socket.io
+* Database Design
+* API Integration
+* AI API Integration
+* Full Stack Web Development
+* Cloud Deployment
 
 ---
 
